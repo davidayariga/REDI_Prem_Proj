@@ -1,5 +1,6 @@
 # REDI_Prem_Proj
-Python Turn-Based RPG Game
+# Python Turn-Based RPG Game.
+
 This game is created in fulfilment of the requirement of the Redi School Intermediate Python Course.
 
 How the Game Works:
