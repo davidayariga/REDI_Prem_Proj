@@ -5,7 +5,7 @@ This game is created in fulfilment of the requirement of the Redi School Interme
 
 How the Game Works:
 Characters: There's a player (Captain America) and an enemy (Thanos), each with attributes for health, attack power and healing power.
-Gameplay: Each turn, you choose whether to attack or heal. The goblin will automatically attack after your move.
+Gameplay: Each turn, you choose whether to attack or heal. Thanos will automatically attack after your move.
 Endgame: The game ends when either the player or the goblin's health reaches zero.
 
 How the game was made:
