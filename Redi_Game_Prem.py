@@ -30,8 +30,8 @@ class Character:
 
 # Main function to run the game
 def game():
-    player = Character("Hero", 50, 10, 8)  # Create a player character
-    enemy = Character("Goblin", 30, 15, 5)  # Create an enemy character
+    player = Character("Captain America", 50, 10, 8)  # Create a player character
+    enemy = Character("Thanos", 30, 15, 5)  # Create an enemy character
 
     # Game loop that continues until one of the characters dies
     while player.is_alive() and enemy.is_alive():
