@@ -55,9 +55,9 @@ def game():
 
     # Check who won the game
     if player.is_alive():
-        print("You defeated the Goblin!")  # Player wins
+        print("You defeated Thanos!")  # Player wins
     else:
-        print("You have been defeated by the Goblin!")  # Enemy wins
+        print("You have been defeated by Captain America!")  # Enemy wins
 
 game()
 
